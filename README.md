@@ -4,7 +4,21 @@ curso:3°c
 fecha:31/08/2018
 asignatura:soporte usuario
 profesor:margot herrera 
+*
+*
+  introduccion   
+en este informe veremos la mejora o una idea de mejorar el laboratorio tp para un uso mas comodo y  sencillo  para el uso que le daran los alumnos a la sala y a sus computadores 
+*
+*
+objetivo
+el objetivo de esto es dar una mejora a la sala o un uso mas comodo para los alumnos y el profesor no solo un uso mas comodo si no una mejor vista 
+objetivos espesificos 
+   -mejor uso
+   -mas comodo
 
 
-introduccion
-en este informe veremos 
+
+
+recomendaciones 
+mantener los computadores limpios y la sala limpiarla  cada dia por el polvo que se genera en un dia o en una semana 
+
