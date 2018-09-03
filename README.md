@@ -20,5 +20,9 @@ objetivos espesificos
 
 
 recomendaciones 
-mantener los computadores limpios y la sala limpiarla  cada dia por el polvo que se genera en un dia o en una semana 
+mantener los computadores limpios y ordenados 
+
+
+linkografia
+https://github.com/zebastianmedinai/informelaboratoriotp2/edit/master/README.md
 
